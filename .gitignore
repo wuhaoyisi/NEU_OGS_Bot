@@ -1,0 +1,39 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+*.env
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Logs
+*.log
+
+# Byte-compiled / optimized files
+*.pyc
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+
+# Local configuration files
+config.json
+
+# Crawler files
+crawler_md_*
+
+# Text files
+*.txt
+*.md
